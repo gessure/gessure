@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Gessure Espino
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Gessure
+last_name: Espino
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 status:
@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Profesor de Educación Matemática y miembro del SNII (Nivel I)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Escuela Normal Superior, plantel Hermosillo (ENSH)
+    url: http://ensh.creson.edu.mx/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:g.espino@creson.edu.mx'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
@@ -45,17 +45,18 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-8629-9757
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Matemáticas
+  - Software
+  - Interdisciplinariedad
+  - STE(A)M
+  - nada más 
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Matemática Educativa
+    institution: Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada CICATA-IPN
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
@@ -64,8 +65,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MS Matemática Educativa
+    institution: Universidad de Sonora
     icon: ""
     date_start: 2013-09-01
     date_end: 2015-05-31
@@ -73,7 +74,7 @@ education:
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
+  - area: BS Matemáticas
     institution: MIT
     icon: ""
     date_start: 2009-09-01
@@ -169,4 +170,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Doctor en Matemática Educativa, especialista en STEAM e interdisciplinariedad aplicada a la formación docente. Exploro cómo integrar estadística, tecnología y proyectos reales para transformar la enseñanza de las matemáticas.
