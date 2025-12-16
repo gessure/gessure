@@ -16,7 +16,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Descargar CV
         url: uploads/CVU.pdf
       headings:
         about: ''
@@ -46,7 +46,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Futuras Publicaciones
       filters:
         folders:
           - publications
@@ -56,7 +56,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publicaciones Recientes
       text: ''
       filters:
         folders:
@@ -67,7 +67,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Charlas Recientes & Próximas
       filters:
         folders:
           - events
@@ -76,13 +76,13 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Noticias Recientes
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         author: ''

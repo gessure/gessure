@@ -13,7 +13,7 @@ last_name: Espino
 # pronouns: he/him
 
 # Status emoji
-status:
+status: 
   icon: 🚀
 
 # Is this the primary user of the site?
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Profesor de Educación Matemática y miembro del SNII (Nivel I)
+role: Profesor de Matemática y miembro del SNII (Nivel I)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -39,11 +39,11 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/gessure
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=BkzQrwIAAAAJ&hl=es&authuser=1&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-8629-9757
 
@@ -52,52 +52,59 @@ interests:
   - Software
   - Interdisciplinariedad
   - STE(A)M
-  - nada más 
 
 education:
-  - area: PhD Matemática Educativa
-    institution: Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada CICATA-IPN
+  - area: Doctorado en Matemática Educativa
+    institution: Centro de Investigación en Ciencia Aplicada y Tecnología Avanzada (CICATA-IPN)
     icon: ""
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Tesis: _Uso de proyectos estadísticos como una estrategia didáctica para favorecer la interdisciplinariedad: una experiencia con formadores docentes_.
     button:
-      text: 'Read Thesis'
+      text: 'Leer Tesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Matemática Educativa
+  - area: Maestría en Matemática Educativa
     institution: Universidad de Sonora
     icon: ""
     date_start: 2013-09-01
     date_end: 2015-05-31
     summary: |
-      GPA: 4.0/4.0
+      <!-- GPA: 4.0/4.0 -->
 
       Specialized in machine learning and robotics.
-  - area: BS Matemáticas
-    institution: MIT
+  - area: Licenciatura en Matemáticas
+    institution: Universidad Autónoma de Nayarit
     icon: ""
     date_start: 2009-09-01
     date_end: 2013-05-31
     summary: |
-      GPA: 3.9/4.0
+      <!-- GPA: 3.9/4.0 --> 
+      
 
-      Minored in Mathematics. President of AI Club.
-
+      
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Docente
+    company_name: Escuela Normal Superior, plantel Hermosillo
+    company_url: 'http://ensh.creson.edu.mx/'
     icon: ''
     date_start: 2020-01-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+  - position: Docente de asignatura
+    company_name: Unibersidad de Sonora
+    company_url: 'https://www.mat.uson.mx/web/'
     icon: ''
-    date_start: 2019-06-01
+    date_start: 2020-01-01
+    date_end: ''
+    summary: |2-
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years. 
+  - position: Docente
+    company_name: Universidad Autónoma de Nayarit
+    company_url: 'https://uan.edu.mx'
+    icon: ''
+    date_start: 2006-08-16
     date_end: 2019-12-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
@@ -105,16 +112,20 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Habilidades Técnicas
     items:
-      - name: Python & PyTorch
+      - name: Rstudio & Python
         description: ''
-        percent: 95
+        percent: 90
         icon: code-bracket
       - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
+      - name: Cloud Computing (AWS/GCP)
+        description: ''
+        percent: 85
+        icon: cloud
       - name: Cloud Computing (AWS/GCP)
         description: ''
         percent: 85
@@ -127,26 +138,27 @@ skills:
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Video Games
         description: ''
         percent: 90
-        icon: cpu-chip
+        icon: custom/game
       - name: Sci-Fi Reading
         description: ''
         percent: 70
         icon: book-open
 
+
 languages:
-  - name: English
+  - name: Español
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Inglés
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+<!-- awards:
   - title: Best Paper Award
     url: https://neurips.cc/
     date: '2022-12-01'
@@ -168,6 +180,9 @@ awards:
     icon: hero/academic-cap
     summary: |
       Recognized for contributions to scaling laws in deep learning.
+      -->
 ---
 
-Doctor en Matemática Educativa, especialista en STEAM e interdisciplinariedad aplicada a la formación docente. Exploro cómo integrar estadística, tecnología y proyectos reales para transformar la enseñanza de las matemáticas.
+Doctor en Matemática Educativa, especialista en STEAM e interdisciplinariedad aplicada a la formación docente. Exploro cómo integrar estadística, tecnología y proyectos reales para transformar la enseñanza de las matemáticas. 
+
+<!-- para comentar -->
